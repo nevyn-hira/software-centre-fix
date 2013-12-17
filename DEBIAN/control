@@ -1,0 +1,9 @@
+Package: software-center-fix
+Version: 0.0.4~precise
+Architecture: i386
+Maintainer: Nevyn <nevynh@gmail.com>
+Installed-Size: 1029
+Description: Removes paid apps and the banner
+Section: main
+Priority: optional
+Replaces: software-center
